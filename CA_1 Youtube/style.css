@@ -1,0 +1,99 @@
+* {
+    color: white;
+    margin: 0;
+}
+.page {
+    display: flex;
+    flex-direction: row;
+}
+.bar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.class1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px;
+}
+.home {
+    background-color: #383838;
+}
+.class2 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border-bottom:1px solid #383838 ;
+}
+.cl1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    width: 200px;
+    display: flex;
+    align-content: center;
+
+}
+.class3 {
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.intr {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.idk {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.searchbar {
+    display: flex;
+    flex-direction: row;
+}
+.users {
+    display: flex;
+    flex-direction: row;
+}
+.you {
+    height: 30px;
+    margin-left: 1px;
+}
+.icon {
+    height: 30px;
+    margin-right: 20px;
+}
+.bar {
+    background-color: #212121;
+}
+.main {
+    background-color: #181818;
+    width: 100%;
+}
+img{
+    color: white;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+
+}
+.pop {
+    display: flex;
+    flex-direction: row;
+}
+.one {
+    display: flex;
+    flex-direction: column;
+}
